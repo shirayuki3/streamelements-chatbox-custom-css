@@ -1,4 +1,4 @@
-# streamelements-chatbox
+# streamelements-chatbox-custom-css
 OBSで使用するカスタムCSSです。自分専用に作成したため、以下のStreamElementsの設定でのみ正常に動作します。カスタマイズする際はCSSをご自身で修正していただく必要がありますのでご了承ください。
 StreamElementsの仕様変更により動作しなくなる可能性があります。
 
