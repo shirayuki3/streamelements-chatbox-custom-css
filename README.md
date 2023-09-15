@@ -1,6 +1,7 @@
 # streamelements-chatbox
-OBS側で使用するカスタムCSSです。適宜OBS側でクロップする必要があります。自分専用に作成したため、以下のStreamElementsの設定でのみ正常に動作します。カスタマイズする際はCSSをご自身で修正していただく必要がありますのでご了承ください。
+OBS側で使用するカスタムCSSです。自分専用に作成したため、以下のStreamElementsの設定でのみ正常に動作します。カスタマイズする際はCSSをご自身で修正していただく必要がありますのでご了承ください。
 
+https://github.com/shirayuki3/streamelements-chatbox/assets/142776366/3dcab2f0-3290-44ee-9f56-1a4cdcdf9d36
 
 ## StreamElementsの設定
 <img width="239" alt="image" src="https://github.com/shirayuki3/streamelements-chatbox/assets/142776366/dcae2b7e-db4d-4d69-b40c-4ae77c8f13fa">
