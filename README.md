@@ -1,5 +1,5 @@
 # streamelements-chatbox-custom-css
-OBSで使用するカスタムCSSです。自分用に作成したため、以下のStreamElementsの設定でのみ正常に動作します。StreamElementsの仕様変更により以下の設定でも動作しなくなる可能性があります。
+OBSで使用するカスタムCSSです。自分用に作成したため、下記のStreamElementsの設定でのみ正常に動作します。StreamElementsの仕様変更により下記の設定でも動作しなくなる可能性があります。
 
 https://github.com/shirayuki3/streamelements-chatbox/assets/142776366/3dcab2f0-3290-44ee-9f56-1a4cdcdf9d36
 
